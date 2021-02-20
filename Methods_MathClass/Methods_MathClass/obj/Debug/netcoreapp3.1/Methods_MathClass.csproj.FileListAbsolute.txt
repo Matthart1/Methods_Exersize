@@ -1,0 +1,13 @@
+C:\Users\mphar\Desktop\repos\Methods\Methods_MathClass\Methods_MathClass\obj\Debug\netcoreapp3.1\Methods_MathClass.csprojAssemblyReference.cache
+C:\Users\mphar\Desktop\repos\Methods\Methods_MathClass\Methods_MathClass\obj\Debug\netcoreapp3.1\Methods_MathClass.AssemblyInfoInputs.cache
+C:\Users\mphar\Desktop\repos\Methods\Methods_MathClass\Methods_MathClass\obj\Debug\netcoreapp3.1\Methods_MathClass.AssemblyInfo.cs
+C:\Users\mphar\Desktop\repos\Methods\Methods_MathClass\Methods_MathClass\obj\Debug\netcoreapp3.1\Methods_MathClass.csproj.CoreCompileInputs.cache
+C:\Users\mphar\Desktop\repos\Methods\Methods_MathClass\Methods_MathClass\bin\Debug\netcoreapp3.1\Methods_MathClass.exe
+C:\Users\mphar\Desktop\repos\Methods\Methods_MathClass\Methods_MathClass\bin\Debug\netcoreapp3.1\Methods_MathClass.deps.json
+C:\Users\mphar\Desktop\repos\Methods\Methods_MathClass\Methods_MathClass\bin\Debug\netcoreapp3.1\Methods_MathClass.runtimeconfig.json
+C:\Users\mphar\Desktop\repos\Methods\Methods_MathClass\Methods_MathClass\bin\Debug\netcoreapp3.1\Methods_MathClass.runtimeconfig.dev.json
+C:\Users\mphar\Desktop\repos\Methods\Methods_MathClass\Methods_MathClass\bin\Debug\netcoreapp3.1\Methods_MathClass.dll
+C:\Users\mphar\Desktop\repos\Methods\Methods_MathClass\Methods_MathClass\bin\Debug\netcoreapp3.1\Methods_MathClass.pdb
+C:\Users\mphar\Desktop\repos\Methods\Methods_MathClass\Methods_MathClass\obj\Debug\netcoreapp3.1\Methods_MathClass.dll
+C:\Users\mphar\Desktop\repos\Methods\Methods_MathClass\Methods_MathClass\obj\Debug\netcoreapp3.1\Methods_MathClass.pdb
+C:\Users\mphar\Desktop\repos\Methods\Methods_MathClass\Methods_MathClass\obj\Debug\netcoreapp3.1\Methods_MathClass.genruntimeconfig.cache
